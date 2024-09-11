@@ -1,0 +1,11 @@
+.div
+{
+    height: 100px;
+    width: 100px;
+    background-color :aqua;
+    border: 5px solid greenyellow;
+    border: 5px dotted greenyellow;
+    border: 5px double greenyellow;
+    border: 5px dashed rgb(152, 252, 2);
+}
+

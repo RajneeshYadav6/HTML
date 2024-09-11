@@ -1,0 +1,22 @@
+.box
+{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 5px solid greenyellow;
+    border: 5px dotted greenyellow;
+    border: 5px double greenyellow;
+    border: 5px dashed rgb(152, 252, 2);
+}
+
+p {
+    color: brown;
+}
+
+.head
+{
+    border-left: 20px solid magenta;
+    border-right: 20px solid rgb(248, 1, 186);
+    border-top: 20px solid rgb(51, 0, 253);
+    border-bottom: 20px solid rgb(9, 67, 226);
+}

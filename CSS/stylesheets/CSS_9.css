@@ -1,0 +1,19 @@
+.p {
+    background-color: rgb(255, 25, 0);
+    height: 300px;
+    display: inline;
+}
+
+.sp{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    display: block;
+}
+
+.para
+{
+    background-color: palevioletred;
+    height: 400px;
+    display: inline-block;
+}
